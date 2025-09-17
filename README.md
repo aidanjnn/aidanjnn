@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey, I'm Aidan! 👋
+_______________________________________
 
-<!--
-**aidanjnn/aidanjnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Software Engineering Student (c/o 2030) at the University of Waterloo! <img width="480" height="260" alt="image" src="https://github.com/user-attachments/assets/11fc9cbf-69b1-42eb-a6c0-1ad32b53d9b3" />
 
-Here are some ideas to get you started:
+(1.01)^365 = 37.8 :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(1.00)^365 = 1.00
+_______________________________________
+## About Me 😁
+- 🔭 I’m currently working on debugging endless code and learning app development 👨‍💻
+- 2025 Director of Logistics @ [Strive Competition](https://www.strivecompetition.org/), worked on internal logistics of Western Canada's only tech-centric business conference, helped organize partnership with Western Ivey School of Business.
+- Prev. Biomedical Engineering Intern @ Vancouver General Hospital, working away at the hardware behind medical devices 🏥
+- Schulich Leader Nominee, Loran Scholar Semi-Finalist, Received over $100,000 in post-secondary scholarships! 
+
+## Fun Facts 💭
+- 📍 Born and raised in Vancouver, BC!
+- 🗻 Love Hiking! 
+- ⚽︎ Avid soccer fan (hoping Korea pulls off a miracle in 2026 🧎)
+- 🏃‍➡️ Been weightlifting for 4 years :)
+- 🎧 Listened to 95,000 minutes of music in 2024, feel free to give me any recs!
