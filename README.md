@@ -10,6 +10,7 @@ _______________________________________
 ## About Me 😁
 - 🔭 I’m currently working on debugging endless code and learning app development 👨‍💻
 - 2025 Director of Logistics @ [Strive Competition](https://www.strivecompetition.org/), worked on internal logistics of Western Canada's only tech-centric business conference, helped organize partnership with Western Ivey School of Business.
+- UBC Engineering Without Borders 2nd Place 2023, miniEnterprize 2024 Winner, 2025 2nd Place, miniEnterprize Investment Competition 2nd Place, (love going to Consulting Competitions :))
 - Prev. Biomedical Engineering Intern @ Vancouver General Hospital, working away at the hardware behind medical devices 🏥
 - Schulich Leader Nominee, Loran Scholar Semi-Finalist, Received over $100,000 in post-secondary scholarships! 
 
