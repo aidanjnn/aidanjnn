@@ -8,7 +8,7 @@ I'm currently a Software Engineering Student (c/o 2030) at the University of Wat
 (1.00)^365 = 1.00
 _______________________________________
 ## About Me 😁
-- 🔭 I’m currently working on debugging endless code and learning app development 👨‍💻
+- 🔭 I’m currently working on debugging endless code and learning ai infra👨‍💻
 - 2025 Director of Logistics @ [Strive Competition](https://www.strivecompetition.org/), worked on internal logistics of Western Canada's only tech-centric business conference, helped organize partnership with Western Ivey School of Business.
 - UBC Engineering Without Borders 2nd Place 2023, miniEnterprize 2024 Winner, 2025 2nd Place, miniEnterprize Investment Competition 2nd Place, (love going to Consulting Competitions :))
 - Prev. Biomedical Engineering Intern @ Vancouver General Hospital, working away at the hardware behind medical devices 🏥
