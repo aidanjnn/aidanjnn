@@ -1,8 +1,5 @@
-hey, i'm aidan, a software engineering Student at the University of Waterloo! 
+hey, i'm aidan, a software engineering student at the university of waterloo! (1.01)^365 = 37.8 | (1.00)^365 = 1.00
 
-(1.01)^365 = 37.8 :)
-
-(1.00)^365 = 1.00
 
 currently!
 - super interested in ai agents across healthtech, fintech, + browser automation
@@ -21,3 +18,4 @@ fun facts
 - love hiking! 
 - soccer + weightlifting enjoyer
 - 95,000+ min of music listened to in 2025
+
