@@ -3,8 +3,8 @@ hey, i'm aidan, a software engineering student at the university of waterloo! (1
 
 currently!
 - super interested in ai agents across healthtech, fintech, + browser automation
-- trying to become the best product engineer i can (i love me great design as well)
-- engineering at watonomous, autonomous everything :)
+- trying to become the best product/harness engineer!
+- engineering at copperlane, scaling everything :)
 
 prev:
   
