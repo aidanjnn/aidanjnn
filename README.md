@@ -2,14 +2,13 @@ hey, i'm aidan, a software engineering student at the university of waterloo! (1
 
 
 currently!
-- super interested in ai agents across healthtech, fintech, + browser automation
+- first engineering intern at copperlane (yc w26), scaling everything :)
+- super interested in agent ecosystems and infrastructure
 - trying to become the best product/harness engineer!
-- engineering at copperlane, scaling everything :)
 
 prev:
   
 - logistics @ [strive competition](https://www.strivecompetition.org/), worked on internal logistics of Western Canada's largest tech-centric business conference, helped organize partnership with Western Ivey School of Business.
-- built [cursor for dentists](https://www.linkedin.com/posts/aidanjeon_we-built-cursor-for-dentists-check-it-out-activity-7442285468664238080-0dkp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEbukEBZnj8IvirU169gmjG6FTOlwGQrtM), inbound vc interest!
 - youngest engineering intern ever @ vancouver general hospital, working away at the hardware behind medical devices 🏥
 - Schulich Leader Nominee, Loran Scholar Semi-Finalist, Received over $100,000 in post-secondary merit scholarships! 
 
