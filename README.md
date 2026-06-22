@@ -1,4 +1,5 @@
-hey, i'm aidan, a software engineering student at the university of waterloo! (1.01)^365 = 37.8 | (1.00)^365 = 1.00
+hey, i'm aidan, a software engineering student at the university of waterloo! 
+(1.01)^365 = 37.8 | (1.00)^365 = 1.00
 
 
 currently!
@@ -8,8 +9,8 @@ currently!
 
 prev:
   
-- logistics @ [strive competition](https://www.strivecompetition.org/), worked on internal logistics of Western Canada's largest tech-centric business conference, helped organize partnership with Western Ivey School of Business.
 - youngest engineering intern ever @ vancouver general hospital, working away at the hardware behind medical devices 🏥
+- logistics @ [strive competition](https://www.strivecompetition.org/), worked on internal logistics of Western Canada's largest tech-centric business conference, helped organize partnership with Western Ivey School of Business.
 - Schulich Leader Nominee, Loran Scholar Semi-Finalist, Received over $100,000 in post-secondary merit scholarships! 
 
 fun facts
