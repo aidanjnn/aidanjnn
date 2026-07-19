@@ -1,9 +1,10 @@
-hey, i'm aidan, a software engineering student at the university of waterloo! 
+hey, i'm aidan, a software engineering student at the university of waterloo!
+
 (1.01)^365 = 37.8 | (1.00)^365 = 1.00
 
 
 currently!
-- first engineering intern at copperlane (yc w26), scaling everything :)
+- first engineering intern @ [copperlane (yc w26)], scaling everything :)
 - super interested in agent ecosystems and infrastructure
 - trying to become the best product/harness engineer!
 
