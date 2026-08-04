@@ -5,8 +5,7 @@ hey, i'm aidan, a software engineering student at the university of waterloo!
 
 currently!
 - first engineering intern @ [copperlane (yc w26)], scaling everything :)
-- super interested in agent ecosystems and infrastructure
-- trying to become the best product/harness engineer!
+- super interested in agent ecosystems and infrastructure, trying to become great at everything i focus on!
 
 prev:
   
