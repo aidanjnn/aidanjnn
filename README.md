@@ -1,8 +1,9 @@
 <img width="1199" height="600" alt="image" src="https://github.com/user-attachments/assets/228a2532-38f9-4b07-be7d-e30e8fc21918" />
 
+
 currently!
 - software engineering student at the university of waterloo
-- first engineering intern @ [copperlane (yc w26)], scaling everything :)
+- first engineering intern @ [copperlane (yc w26)](https://www.copperlane.ai/), scaling everything :)
 - working on agent infrastructure, trying to become great at everything i focus on!
 
 prev:
