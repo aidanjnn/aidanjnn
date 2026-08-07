@@ -1,10 +1,7 @@
-hey, i'm aidan, a software engineering student at the university of waterloo!
-
-(1.01)^365 = 37.8 | (1.00)^365 = 1.00
-<img width="960" height="1200" alt="image" src="https://github.com/user-attachments/assets/26920657-da3b-4bc5-a6b1-60a43f336587" />
-
+<img width="1199" height="600" alt="image" src="https://github.com/user-attachments/assets/228a2532-38f9-4b07-be7d-e30e8fc21918" />
 
 currently!
+- software engineering student at the university of waterloo
 - first engineering intern @ [copperlane (yc w26)], scaling everything :)
 - super interested in agent ecosystems and infrastructure, trying to become great at everything i focus on!
 
