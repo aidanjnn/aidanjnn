@@ -1,6 +1,7 @@
 hey, i'm aidan, a software engineering student at the university of waterloo!
 
 (1.01)^365 = 37.8 | (1.00)^365 = 1.00
+<img width="960" height="1200" alt="image" src="https://github.com/user-attachments/assets/26920657-da3b-4bc5-a6b1-60a43f336587" />
 
 
 currently!
