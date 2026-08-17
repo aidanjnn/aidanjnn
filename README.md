@@ -10,7 +10,7 @@ prev:
   
 - youngest engineering intern ever @ vancouver general hospital, working away at the hardware behind medical devices 🏥
 - logistics @ [strive competition](https://www.strivecompetition.org/), worked on internal logistics of Western Canada's largest tech-centric business conference, helped organize partnership with Western Ivey School of Business.
-- Schulich Leader Nominee, Loran Scholar Semi-Finalist, $100,000+ in post-secondary merit scholarships! 
+- Schulich Leader Nominee, Loran Scholar Semi-Finalist, $100,000+ in merit scholarships! 
 
 fun facts
 - canadian-korean born in vancouver
