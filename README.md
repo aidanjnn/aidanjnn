@@ -1,11 +1,13 @@
-<img width="1199" height="600" alt="image" src="https://github.com/user-attachments/assets/228a2532-38f9-4b07-be7d-e30e8fc21918" />
+<img width="352" height="498" alt="two-aliens-with-head-together" src="https://github.com/user-attachments/assets/d1e16baa-ba40-41b9-8108-57dd16b91462" />
 
-- software engineering student at the university of waterloo
-- engineering intern @ [copperlane (yc w26)](https://www.copperlane.ai/), scaling everything :)
-- working on agent infrastructure + diving deep into physical ai/world simulations, trying to become great at everything i focus on!
+image ^ me and my bestie zk when one of us gets grilled in the gc because he hurt me hurt :)
+
+- founder of otto :) ironman for jarvis
+- generating breakthoughs in br****a lin 
+- mining copper at copper lane
+- kpop lover OMGG LISAA I LOVE HER
 
 fun facts
-- canadian-korean born in vancouver
-- hiking, soccer, music + weightlifting enjoyer
-- reach out anywhere!
+- uncircumcized
+- reach out on grindr.com/aidanjnn all my usernames are the same all welcome
 
